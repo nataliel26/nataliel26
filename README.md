@@ -2,13 +2,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliel26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">I'm a 22 years old developer and I have a long-time relationship with computers, wich made me a very intuitive learner when coming to tecnology. I'm currently focused on back-end, but I also have some front-end knowledge, and always willing to learn more!</h4>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAC/bocchi-bocchi-the-rock.gif"  />
+<br clear="both">
+
+<div align="left">
+  <a href="www;linkedin.com/in/natalielourenco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -24,10 +28,12 @@
 
 ###
 
-<div align="left">
-  <a href="linkedin.com/in/natalielourenco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<img align="right" height="150" src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAC/bocchi-bocchi-the-rock.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliel26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
